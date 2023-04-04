@@ -1,0 +1,30 @@
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+.navbar li{
+    float: left;
+}
+
+.navbar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 9px 7px;
+    text-decoration: none;
+}
+
+.separatore{
+    display: flex;
+    margin-left: 85rem;
+    padding: 9px 7px;
+    justify-content: space-between;
+}
+
+.separatore a{
+    color: #fff;
+}
